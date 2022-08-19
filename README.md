@@ -1,6 +1,6 @@
 🔴🟢🔵🟣⚫️⚪️
 <h1 align="center">
-    <img alt="css" title="#estudosCSS" src="https://eduardorojas.com.br/img/css.9690cd06.png" width='22%' align="center"/>    
+    <img alt="css" title="#estudosCSS" src="./css.png" width='22%' align="center"/>    
     <br>
     Estudos CSS
 </h1>
