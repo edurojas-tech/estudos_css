@@ -15,3 +15,10 @@ Este repositório é destinado para compartilhar todo conhecimento aprendido com
 <p>
    O código <b>CSS</b> é estruturado por propiedades associados a um "seletor".
 </p>
+
+## Seletores
+<p>
+   <b>Por nome de tag:</b> Quando selecionamos elementos HTML específico, seja uma tag de parágrafo, span, imagem, h1 entre outros.
+   <b>Por nome de identificador ou ID:</b>: quando queremos selecionar um elemento único com seu Id de identificador (#elemento), e realizar a estilização.
+    <b>Por nome de classes:</b>: quando selecionamos varios elementos pelo nome de sua classe associodos em vários elementos HTML, facilitando a estilização de varios elementos e um único código CSS (.elementos)
+</p>
