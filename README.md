@@ -26,3 +26,7 @@ Este repositório é destinado para compartilhar todo conhecimento aprendido com
 <p>
     <b>Por nome de classes:</b>: quando selecionamos varios elementos pelo nome de sua classe associodos em vários elementos HTML, facilitando a estilização de varios elementos e um único código CSS (.elementos).
 </p>
+
+## Exemplo de sintaxi do cógido CSS
+![image](https://user-images.githubusercontent.com/61126545/185522836-9e1bf39a-6913-4ace-b999-97d299279f16.png)
+
