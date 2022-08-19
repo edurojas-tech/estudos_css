@@ -30,3 +30,12 @@ Este repositório é destinado para compartilhar todo conhecimento aprendido com
 ## Exemplo de sintaxi do cógido CSS
 ![image](https://user-images.githubusercontent.com/61126545/185522836-9e1bf39a-6913-4ace-b999-97d299279f16.png)
 
+## Exemplos por seletores CSS
+Tag |  Id  | Clasess |
+| ----------- | ----------- | ----------- |
+| ![image](https://user-images.githubusercontent.com/61126545/185523127-cc752527-28b8-4190-a44e-55452fe44413.png) | ![image](https://user-images.githubusercontent.com/61126545/185523268-85527ecc-b47b-44ab-88c6-aff23bf415fc.png) | ![image](https://user-images.githubusercontent.com/61126545/185523210-1d238178-0b87-41dc-a8fa-e9c6e7253a30.png) |
+
+
+
+
+
