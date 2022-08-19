@@ -40,7 +40,7 @@ Tag |  Id  | Clasess |
 <p>
     <b>Externo:</b> <br>
     Primeiramente incluimos uma tag link, para referências seu arquivo externo CSS, neste caso "mystyle.css" 
-    <img src="https://user-images.githubusercontent.com/61126545/185527418-6bfe0c65-3b94-4983-a422-758d205b5b64.png"/>
+    <img src="https://user-images.githubusercontent.com/61126545/185528194-192ea7a2-f2e2-4cc6-baa7-9c55d7269acc.png"/>
 </p>
 
 <p>
