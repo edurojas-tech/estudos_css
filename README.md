@@ -6,7 +6,9 @@
     Estudos CSS
 </h1>
 
-Este repositório é destinado para compartilhar todo conhecimento aprendido com a linguagem de programação <b>CSS</b>
+Este repositório é destinado para compartilhar todo conhecimento aprendido sobre <b>CSS
+<br> Referência de estudos:  MDN Web Docs e w3schools.com
+</b>
 
 # 🎨 O que é CSS?
 <p>
