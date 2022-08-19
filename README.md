@@ -1,6 +1,7 @@
-🔴🟢🔵🟣⚫️⚪️
 <h1 align="center">
-    <img alt="css" title="#estudosCSS" src="./css.png" width='22%' align="center"/>    
+    <img alt="css" title="#estudosCSS" src="./css.png" width='20%' align="center"/>    
+    <br>
+    🔴🟢🔵🟣⚫️⚪️
     <br>
     Estudos CSS
 </h1>
