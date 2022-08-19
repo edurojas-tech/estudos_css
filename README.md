@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="JavaScript" title="#estudosJs" src="https://eduardorojas.com.br/img/css.9690cd06.png" width='20%' align="center"/>
+    <img alt="css" title="#estudosJs" src="https://eduardorojas.com.br/img/css.9690cd06.png" width='30%' align="center"/>
     <br>
     🔴🟢🔵🟣⚫️⚪️🟠🟤
     <br>
