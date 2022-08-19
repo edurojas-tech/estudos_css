@@ -41,5 +41,5 @@ Tag |  Id  | Clasess |
 <b>Externo:</b> <br>
     Primeiramente incluimos uma tag link, para referências seu arquivo externo CSS, neste caso "mystyle.css"  |   E depois dentro do arquivo, criamos os nossos códigos CSS associados aos elementos do corpo HTML.
 | ----------- | ----------- |
-| <img src="https://user-images.githubusercontent.com/61126545/185528194-192ea7a2-f2e2-4cc6-baa7-9c55d7269acc.png"/> | <img src="https://user-images.githubusercontent.com/61126545/185528291-89e304b7-6f10-4480-9220-93b829a05a28.png"  width='100%'/> |
+| <img src="https://user-images.githubusercontent.com/61126545/185528194-192ea7a2-f2e2-4cc6-baa7-9c55d7269acc.png"/> | <img src="https://user-images.githubusercontent.com/61126545/185528291-89e304b7-6f10-4480-9220-93b829a05a28.png"  height='100%'/> |
 
