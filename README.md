@@ -45,6 +45,5 @@ Tag |  Id  | Clasess |
 
 <p>
    E depois dentro do arquivo, criamos os nossos códigos CSS associados aos elementos do corpo HTML. <br>
-    <img src="https://user-images.githubusercontent.com/61126545/185527262-aea6083b-d707-4020-931a-93effcb02ab3.png"/>
-
+    <img src="https://user-images.githubusercontent.com/61126545/185528291-89e304b7-6f10-4480-9220-93b829a05a28.png"/>
 </p>
