@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="css" title="#estudosCSS" src="./css.png" width='30%' align="center"/>    
+    <img alt="css" title="#estudosCSS" src="./css.png" width='25%' align="center"/>    
     <br>
     🔴🟢🔵🟣⚫️⚪️
     <br>
