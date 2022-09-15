@@ -45,6 +45,7 @@ Tag |  Id  | Clasess |
 | ----------- | ----------- |
 | <img src="https://user-images.githubusercontent.com/61126545/185528194-192ea7a2-f2e2-4cc6-baa7-9c55d7269acc.png"/> | <img src="https://user-images.githubusercontent.com/61126545/185528291-89e304b7-6f10-4480-9220-93b829a05a28.png"  height='100%'/> |
 
+<br>
 <b>Inline:</b> <br>
     Inserimos estilos CSS inline, quando colocamos o atributo "style" dentro de um elemento HTML e em seguida o código CSS conforme exemplo abaixo, todo estilo CSS inline vai dentro do atributo Style.
 <br> <br>
