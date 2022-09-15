@@ -35,7 +35,7 @@ Tag |  Id  | Clasess |
 | ![image](https://user-images.githubusercontent.com/61126545/185523127-cc752527-28b8-4190-a44e-55452fe44413.png) | ![image](https://user-images.githubusercontent.com/61126545/185523268-85527ecc-b47b-44ab-88c6-aff23bf415fc.png) | ![image](https://user-images.githubusercontent.com/61126545/185523210-1d238178-0b87-41dc-a8fa-e9c6e7253a30.png) |
 
 
-## Como inserir CSS com seu HTML?
+## Como inserir CSS no seu HTML?
 <p>
     Existem três formas de incluir CSS no seu projeto, sendo <b>externo, interno ou inline</b>.
 </p>
