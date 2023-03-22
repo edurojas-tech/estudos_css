@@ -1,0 +1,42 @@
+.figure {
+  margin: auto;
+  background-color: #fff;
+  color: indigo;
+  margin: 12px;
+  border-radius: 20px !important;
+}
+
+.figure__img {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.figure__figcaption {
+  background-color: #beb4b4;
+  text-align: center;
+  padding: 4px;
+  margin-top: -4px;
+}
+
+@media(max-width: 970px) {
+  .figure {
+    width: calc(100% / 3);
+  }
+}
+
+@media(min-width: 870px) {
+  .figure {
+    width: calc(100% / 5);
+  }
+}
+
+@media(max-width: 600px) {
+  .figure {
+    width: 100% !important;
+    margin: 20px auto;
+  }
+
+  .figure__img {
+    width: 100%;
+  }
+}

@@ -6,7 +6,6 @@
 body {
   background-color: #000000;
   color: #84c754;
-  height: 99vh;
   font-family: Courier New;;
 }
 
@@ -20,10 +19,10 @@ div {
 
 .nav {
   height: 10%;
-  position: absolute;
+  position: fixed;
   width: 100%;
   z-index: 1;
-  bottom: -15px;
+  bottom: 0;
 }
 
 .nav > ul {

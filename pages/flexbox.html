@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uso de Flexbox</title>
+    <style>
+      *{
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        background-color: rgba(54, 15, 101, 0.959);
+        color: azure;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        flex-direction: column;
+      }
+
+      .container {
+        align-items: center;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        margin: 20px auto 0 auto;
+      }
+
+      .container__itens {
+        border: 0.4px solid gray;
+        border-radius: 10px;
+        background-color: rgb(65, 167, 65);
+        height: 140px;
+        padding: 10px;
+        width: 150px;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="container" id="flexbox01">
+      <div class="container__itens">Item01</div>
+      <div class="container__itens">Item02</div>
+      <div class="container__itens">Item03</div>
+      <div class="container__itens">Item04</div>
+    </div> 
+    <span style="margin: 10px;">Uso Flexbox com wrap</span>
+  </body>
+</html>
